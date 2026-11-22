@@ -1,0 +1,22 @@
+# Data handling
+pandas
+numpy
+pyarrow
+
+# Config
+python-dotenv
+
+# Geo
+geopandas
+shapely
+pyproj
+pyogrio
+
+# Database
+sqlalchemy
+geoalchemy2
+psycopg2-binary
+
+# Analysis and EDA
+matplotlib
+seaborn
